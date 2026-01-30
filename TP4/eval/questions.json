@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "question": "Quels sont les sujets de PFE supplémentaires proposés par Luca Benedetto ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Comment valider une UE ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q3",
+    "question": "Quelle est la procédure ou les règles en cas d'absence à un examen (justificatif, session de rattrapage) ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q4",
+    "question": "Quel est le nombre maximal d'absences autorisées en cours/TD/TP avant pénalité ou invalidation ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q5",
+    "question": "Quelles sont les modalités de rattrapage (seconde session) et dans quels cas y a-t-on droit ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q6",
+    "question": "Quelles sont les règles de compensation entre UE ou entre semestres ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q7",
+    "question": "Quelle est la note minimale ou les conditions pour valider une UE ou un semestre ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q8",
+    "question": "Quelle est la procédure pour contester une note ou demander une révision de copie ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q9",
+    "question": "Quels documents administratifs sont exigés pour une inscription ou une réinscription (et leurs délais) ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q10",
+    "question": "Quel email indique les consignes ou la logistique liée au PFE (sujets, calendrier, encadrement) ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q11",
+    "question": "Qui a annoncé une information importante concernant les sujets de PFE et quand (date de l'email) ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q12",
+    "question": "Quelles sont les consignes communiquées par email concernant un rendu (format, deadline, dépôt Git) ?",
+    "expected_doc_type": "email"
+  }
+]
